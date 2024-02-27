@@ -13,11 +13,10 @@ Ich würde gerne Arrays benutzen und darin Routine bekommen.
 - [ ] Array Funktion mit Liste erstellen
 - [ ] Testen der Funktion
 - [ ] Sql Auftrag machen
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1		
-2
-3
-4
+
+| Testfall-Nummer	| Ausgangslage (Given) | Eingabe (When)	| Ausgabe (Then)	| Erfüllt? |
+| ----------------| ---------------------| ---------------| ----------------|----------|
+|2  | Programm gestartet Benutzer eingabe 8| 8 Namen eigegeben| Programm gibt Namen zurück| |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
