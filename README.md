@@ -6,17 +6,19 @@ Finn Holle
 
 Grob-Planung
 Ich habe einen mittelmässigen Schnitt im Modul 431 war ich sehr gut, im Modul 319 war ich OK und im Modul 162 war ich schlecht. Ich möchte neue Programmierskills erlernen.
-Was wäre ein geeignetes Projekt für diese LP4?
+Ich würde gerne Arrays benutzen und darin Routine bekommen. 
 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Youtube Video schauen https://www.youtube.com/watch?v=gllNTMaI2xo
+[ ] Arrays üben
+[ ] Array Funktion mit Liste erstellen
+[ ] Testen der Funktion
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
+1		
+2
+3
 4				
 ✍️ Heute habe ich... (50-100 Wörter)
 
