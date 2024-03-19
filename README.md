@@ -46,7 +46,11 @@ Ich würde gerne Arrays benutzen und darin Routine bekommen.
 
 Heute habe ich gelernt SQL abfragen mit Join zu erstellen. Sowie was Software linzenzen sind und welche wann zum Einsatz kommt und welche internen und externen Schnittstellen mein Laptop hat. Welche Internet Zugangsmöglichkeiten ich habe, zuhause sowie in der Schule. Also W-Lan oder Lan wobei das Lan nur in der BBB und nicht in der Kanti genutzt werden kann.
 
-      
+## 19.3.2024
+- [] über API Informationen sammeln
+- [] API converter erstellen    
+- [] API Sprachen erkenner programmieren    
+- [] Dokumentieren   
 ## Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
