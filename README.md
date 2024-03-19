@@ -52,14 +52,14 @@ Heute habe ich gelernt SQL abfragen mit Join zu erstellen. Sowie was Software li
 - [ ] LA_187_0709    
 - [x] LA_M106_2404_DQL_Abfragen_einfach
 
-Heute habe ich die Aufträge 0705, 0707 und 2404, bin jedoch mit Auftrag 0709 nicht ganz fertig geworden. Habe verschiedene SQL Statement und Aufrufe gelernt.
+Heute habe ich die Aufträge 0705, 0707 und 2404, bin jedoch mit Auftrag 0709 nicht ganz fertig geworden. Habe verschiedene SQL Statement und Aufrufe gelernt. 
 
 ## 26.3.2024
 
 - [] LA_187_0706
 - [] LA_187_0709
-- [] 
-- []
+- [] Modul 106 2405
+- [] Modul 106 2407
 
 ## Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
