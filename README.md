@@ -24,7 +24,7 @@ Ich würde gerne Arrays benutzen und darin Routine bekommen.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 5.3.2024
-- [ ] über API informieren
+- [x] über API informieren
 - [ ] API converter erstellen
 - [ ] API Sprachen erkenner programmieren
 - [ ] Dokumentieren
@@ -35,6 +35,16 @@ Ich würde gerne Arrays benutzen und darin Routine bekommen.
 |2  | neue API | neue API in Google | gleiche Webseite | |
 |3  | Programm| 8 Namen eigegeben| Programm gibt Namen zurück| |
 |4  | Programm| 8 Namen eigegeben| Programm gibt Namen zurück| |
+
+
+
+## 12.3.2024
+-[x] LA_187_0703
+-[x] LA_187_0704
+-[x] LA_187_0708
+-[x] LA_M106_2406_DQL_Abfragen_mit_Cross_Join
+
+Heute habe ich gelernt SQL abfragen mit Join zu erstellen. Sowie was Software linzenzen sind und welche wann zum Einsatz kommt und welche internen und externen Schnittstellen mein Laptop hat. Welche Internet Zugangsmöglichkeiten ich habe, zuhause sowie in der Schule. Also W-Lan oder Lan wobei das Lan nur in der BBB und nicht in der Kanti genutzt werden kann.
 
       
 ## Reflexion
