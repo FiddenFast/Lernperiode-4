@@ -47,10 +47,20 @@ Ich würde gerne Arrays benutzen und darin Routine bekommen.
 Heute habe ich gelernt SQL abfragen mit Join zu erstellen. Sowie was Software linzenzen sind und welche wann zum Einsatz kommt und welche internen und externen Schnittstellen mein Laptop hat. Welche Internet Zugangsmöglichkeiten ich habe, zuhause sowie in der Schule. Also W-Lan oder Lan wobei das Lan nur in der BBB und nicht in der Kanti genutzt werden kann.
 
 ## 19.3.2024
-- [] über API Informationen sammeln
-- [] API converter erstellen    
-- [] API Sprachen erkenner programmieren    
-- [] Dokumentieren   
+- [x] LA_187_0705
+- [x] LA_187_0707  
+- [ ] LA_187_0709    
+- [x] LA_M106_2404_DQL_Abfragen_einfach
+
+Heute habe ich die Aufträge 0705, 0707 und 2404, bin jedoch mit Auftrag 0709 nicht ganz fertig geworden. Habe verschiedene SQL Statement und Aufrufe gelernt.
+
+## 26.3.2024
+
+- [] LA_187_0706
+- [] LA_187_0709
+- [] 
+- []
+
 ## Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
