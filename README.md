@@ -39,10 +39,10 @@ Ich würde gerne Arrays benutzen und darin Routine bekommen.
 
 
 ## 12.3.2024
--[x] LA_187_0703
--[x] LA_187_0704
--[x] LA_187_0708
--[x] LA_M106_2406_DQL_Abfragen_mit_Cross_Join
+- [x] LA_187_0703
+- [x] LA_187_0704
+- [x] LA_187_0708
+- [x] LA_M106_2406_DQL_Abfragen_mit_Cross_Join
 
 Heute habe ich gelernt SQL abfragen mit Join zu erstellen. Sowie was Software linzenzen sind und welche wann zum Einsatz kommt und welche internen und externen Schnittstellen mein Laptop hat. Welche Internet Zugangsmöglichkeiten ich habe, zuhause sowie in der Schule. Also W-Lan oder Lan wobei das Lan nur in der BBB und nicht in der Kanti genutzt werden kann.
 
